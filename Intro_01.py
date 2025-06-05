@@ -72,7 +72,7 @@ nums4.clear() #[]
 nums4=['cba','mca',1,'qui']
 nums4.extend([4,2])  #_iterable in syntax means we should use [] # 4,2 will be added to the end of list
 print(nums4)
-print()  #.
+print()  #..
 
 
 
