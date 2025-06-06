@@ -18,4 +18,6 @@ print(x.isdisjoint(y))  #False # as the values ba is present in x and y
 #is subset method , returns true if all the items present in u matches z
 u={'a','b','l'}
 z={'a','b','m','h','l'}
-print(u.issubset(z)) #true
+print(u.issubset(z)) #
+
+
